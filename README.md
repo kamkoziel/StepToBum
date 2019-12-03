@@ -31,8 +31,8 @@ First step to run application is create new python virtual environment
 python3 -m venv venv
 ```
 Next you have to active your environment
-``` python
-venv\Scripts\activate.bat
+``` bash
+ venv\Scripts\activate.bat
 ``` 
 ## Install requirements packages
 ``` bash
