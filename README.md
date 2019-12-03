@@ -39,7 +39,7 @@ Next you have to active your environment
 (venv) (...)> pip install (pathTo_StepToBum)\requirements.txt
 ```
 #### PyAudio install 
-If you have problem with PyAudio package install you should check: [PyAudio install problem].
+If you have problem with PyAudio package install you should check: [PyAudio install problem](https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-my-python-how-to-do-it).
 
 ## Running app
 To run app you should run you command prompt from StepToBum directory and then type:
@@ -53,7 +53,7 @@ has been properly configured. To do this, choose File -> Settings,
  from the menu bar.
 
 
-Based on [PROJECT] 
+Based on [PROJECT](https://flothesof.github.io/pyqt-microphone-fft-application.html)
 
 [PyAudio install problem]:(https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-my-python-how-to-do-it)
 [PROJECT]:(https://flothesof.github.io/pyqt-microphone-fft-application.html)
